@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "885780754133",
+    "firebase_url": "https://dazzling-c5f00-default-rtdb.firebaseio.com",
+    "project_id": "dazzling-c5f00",
+    "storage_bucket": "dazzling-c5f00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885780754133:android:cced6bd0430db0df35bc5c",
+        "android_client_info": {
+          "package_name": "com.in.dazzling.pusher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885780754133-fd53p49lknu4regtb7jg5i3p9rl06bt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1VpQ-9qkpEaf_HNT0Z7-7BQQe2wedSoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885780754133-fd53p49lknu4regtb7jg5i3p9rl06bt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
